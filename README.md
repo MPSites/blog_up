@@ -8,7 +8,7 @@ View Documentation - file for this project <br/>
 <a href="https://raw.githubusercontent.com/MPSites/blog_up/main/Doc.pdf">Documentation</a>
 
 Login credentials - txt file <br/>
-<a href="https://raw.githubusercontent.com/MPSites/blog_up/main/Doc.pdf">Credentials</a>
+<a href="https://github.com/MPSites/blog_up/blob/main/Login%20Credentials.txt">Credentials</a>
 
 DB Records are located in SQL Script Data folder
 
