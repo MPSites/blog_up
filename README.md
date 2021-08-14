@@ -5,7 +5,12 @@ Blog.up is a blog application that was made for the school subject of PHP level 
 Utilities and Tools: Laravel, PHP, AJAX and Bootstrap
 
 View Documentation - file for this project <br/>
+<a href="https://raw.githubusercontent.com/MPSites/blog_up/main/Doc.pdf">Documentation</a>
 
+Login credentials - txt file <br/>
+<a href="https://raw.githubusercontent.com/MPSites/blog_up/main/Doc.pdf">Credentials</a>
+
+DB Records are located in SQL Script Data folder
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
