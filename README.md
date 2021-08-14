@@ -1,3 +1,12 @@
+## About Project
+
+Blog.up is a blog application that was made for the school subject of PHP level 2, made in Laravel, it should represent and have all functionalities of a modern blog, focusing on news and stories about arts, food and world sites mostly, welcome and enjoy.
+
+Utilities and Tools: Laravel, PHP, AJAX and Bootstrap
+
+View Documentation - file for this project <br/>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
